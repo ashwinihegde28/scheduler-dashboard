@@ -12,5 +12,4 @@ class Panel extends Component {
     );
   }
 }
-
 export default Panel;
